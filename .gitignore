@@ -1,4 +1,6 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+tmp/**
+bin/**
+build/**
+docs/_site
+docs/.sass-cache
+docs/.jekyll-metadata
