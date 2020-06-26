@@ -3,5 +3,9 @@
 # If settings are loaded from a URL, we need RAW data without meta-tags
 # Settings loaded from URLs are only fetched once and then stored locally
 
-GLOBAL=DeviceName~Punk Choker~channel~23,TRUE~safeword~Mayday
-AUTH=trust~00000000-0000-0000-0000-000000000000,00000000-0000-0000-0000-000000000000,00000000-0000-0000-0000-000000000000~owner~00000000-0000-0000-0000-000000000000~public~1~block~00000000-0000-0000-0000-000000000000
+RLVSYS=on~1
+AUTH=owner~f1b8ed30-f241-4583-ae72-134ded77fed2~group~0691e59e-85b7-cb66-bd14-31e8a4ddbdb4
+C=lock~1
+RELAY=mode~1255
+RESTRICTIONS=stray~500~touch~500
+GLOBAL=locked~1
