@@ -4,7 +4,7 @@
 # Settings loaded from URLs are only fetched once and then stored locally
 
 RLVSYS=on~1
-AUTH=owner~f1b8ed30-f241-4583-ae72-134ded77fed2~trust~e1131750-5154-4560-a7ef-fa698192c4dd,e11af4f2-abbf-42b6-9e95-4d91041e8dd2~e376d143-3ab5-4666-89fd-eaceda28e5c0~a4e7a1cc-6d57-442e-935f-ef4e3da71859~718866da-bfb2-4767-8667-85215a3c11ef
+AUTH=owner~f1b8ed30-f241-4583-ae72-134ded77fed2~trust~e1131750-5154-4560-a7ef-fa698192c4dd~trust~e11af4f2-abbf-42b6-9e95-4d91041e8dd2~e376d143-3ab5-4666-89fd-eaceda28e5c0~a4e7a1cc-6d57-442e-935f-ef4e3da71859~718866da-bfb2-4767-8667-85215a3c11ef
 C=lock~1
 RELAY=mode~1255
 RESTRICTIONS=stray~500~touch~500
