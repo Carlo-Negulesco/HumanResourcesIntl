@@ -13,3 +13,4 @@ GLOBAL=locked~1
 CAPTURE=status~8
 RLVEXT=strict~1
 ANIM=currentpose~nadu,500
+RLVSUITE=masks~130023424,3145984
